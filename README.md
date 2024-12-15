@@ -24,7 +24,7 @@
 ### 3. [Gender Prediction Model](https://github.com/OsatoOsazuwa/Machine-Learning-Project-Gender-Prediction.git)
 - Developed a machine learning model to predict gender based on user-provided names and features.
 - Utilized Python and libraries like Scikit-learn for data preprocessing, feature engineering, and classification.
-- Achieved a high prediction accuracy by testing various algorithms and optimizing hyperparameters using GridSearchCV.
+- Achieved a high prediction accuracy by testing various algorithms and optimizing hyperparameters using RandomSearchCV.
 - The project showcases the potential of AI in demographic analysis and personalized user experiences.
   
 ### 4. [SQL Projects](https://github.com/OsatoOsazuwa/Relational_Database.git)

@@ -33,11 +33,11 @@
 - Leveraged SQL techniques such as joins, aggregations, and subqueries to generate actionable business intelligence reports.
 
 ## Education
-- **Bachelor of Science in Accounting**
+**Bachelor of Science in Accounting**
 - University of Lagos, Nigeria
 - Graduated: 2021
-
-- **Data Science Specialization**
+  
+**Data Science Specialization**
 - Currently studying machine learning, deep learning, and generative AI through various online courses.
 
 

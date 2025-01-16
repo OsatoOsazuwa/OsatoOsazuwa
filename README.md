@@ -16,18 +16,21 @@
 ## 📊 Featured Projects  
 ### 1. [5G Energy Consumption Modeling](https://github.com/OsatoOsazuwa/5G_Energy_Consumption_Modeling.git) 
 - Built a predictive machine learning model for energy optimization in telecom networks.  
-- **Technologies**: Python (Pandas, NumPy, Scikit-learn)  
+- **Technologies**: Python (Pandas, NumPy, Scikit-learn)
+### 2. [Systemic Crisis in Africa Prediction Model](https://github.com/OsatoOsazuwa/Systemic-Crisis-ML-Prediction-in-Africa.git)
+- Built a machine learning to predict systemic crisis emergence in Africa using indicators like domestic debt in default,	sovereign external debt default, annual inflation rates, etc.
+- **Technologies**: Python (Pandas, NumPy, Scikit-learn)
 
-### 2. [Python Projects](https://github.com/OsatoOsazuwa/Python-Projects.git)
+### 3. [Python Projects](https://github.com/OsatoOsazuwa/Python-Projects.git)
 -  Highlights specific programming concepts such as web scraping, object-oriented programming, and advanced mathematical operations in Python.
   
-### 3. [Gender Prediction Model](https://github.com/OsatoOsazuwa/Machine-Learning-Project-Gender-Prediction.git)
+### 4. [Gender Prediction Model](https://github.com/OsatoOsazuwa/Machine-Learning-Project-Gender-Prediction.git)
 - Developed a machine learning model to predict gender based on user-provided names and features.
 - Utilized Python and libraries like Scikit-learn for data preprocessing, feature engineering, and classification.
 - Achieved a high prediction accuracy by testing various algorithms and optimizing hyperparameters using RandomSearchCV.
 - The project showcases the potential of AI in demographic analysis and personalized user experiences.
   
-### 4. [SQL Projects](https://github.com/OsatoOsazuwa/Relational_Database.git)
+### 5. [SQL Projects](https://github.com/OsatoOsazuwa/Relational_Database.git)
 - Built and optimized relational database queries to extract insights from sales and product data.
 - Analyzed revenue and profit trends, evaluating the performance of products sold across multiple periods.
 - Leveraged SQL techniques such as joins, aggregations, and subqueries to generate actionable business intelligence reports.

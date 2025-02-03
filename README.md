@@ -19,7 +19,7 @@
 - **Technologies**: Python (Pandas, NumPy, Scikit-learn).
 
 ### 2. [Weather Forecast Program ⛅🌍](https://github.com/me50/OsatoOsazuwa.git)
-- I built a weather forecast programme which is a command-line application that retrieves real-time weather information and a three-day forecast for any location using the WeatherAPI. Built with Python, it utilizes the **requests** library to fetch weather data and formats the output for user-friendly display, ensuring accurate and structured meteorological insights.
+- I built a weather forecast programme which is a command-line application that retrieves real-time weather information and a three-day forecast for any location using the WeatherAPI. Built with Python, it utilizes the `requests` library to fetch weather data and formats the output for user-friendly display, ensuring accurate and structured meteorological insights.
 
 ### 3. [5G Energy Consumption Modeling](https://github.com/OsatoOsazuwa/5G_Energy_Consumption_Modeling.git) 
 - Built a predictive machine learning model for energy optimization in telecom networks.  

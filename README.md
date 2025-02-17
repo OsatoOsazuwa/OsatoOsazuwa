@@ -1,6 +1,6 @@
 # Hi there, I'm Osato! 👋  
 ## 👨‍💻 About Me  
-- 🌱 I’m transitioning into tech, focusing on data science and machine learning.  
+- 🌱 Transitioned into tech, focusing on data science and machine learning.  
 - 💼 Former finance professional with expertise in Python, SQL, and Tableau.  
 - 🌍 Open to global opportunities to contribute and grow in the tech industry.
 

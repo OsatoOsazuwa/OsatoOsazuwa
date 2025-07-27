@@ -51,6 +51,9 @@
 **Data Science Specialization**
 - Currently studying machine learning, deep learning, and generative AI through various online courses.
 
+## 📄 Certifications  
+- 🏅 [Harvard CS50 Python Certificate – edX (Issued July 2024)](https://courses.edx.org/certificates/84c9a9678d7f4f1b90eec32aa34ef5c6)
+- 🏅 [GOMYCODE DataScience Bootcamp Completion Certificate](https://media.licdn.com/dms/document/media/v2/D4D2DAQGHEBo43A2b1A/profile-treasury-document-pdf-analyzed/B4DZUTEs.3HIAc-/0/1739781757238?e=1754524800&v=beta&t=kLzL2jEIl-H6sgEb-gjoBJQVMjeLe4eyspVXn-84VJM)
 
 ## Currently Learning
 - **Machine Learning & Deep Learning**: Passionately exploring predictive modeling, classification, regression, and neural networks to uncover meaningful insights from data, 
